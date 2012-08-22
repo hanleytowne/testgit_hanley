@@ -1,1 +1,16 @@
 hello git
+
+SN:
+HT1BTTD05250
+
+IMEI:
+358000049528746
+
+PN:
+99HMJ005-00
+
+beat key:
+qnoUD3Yqk0fqSAup
+
+http://blog.csdn.net/mchange/article/details/7783092
+8c:55:9b:6f:2c:97:57:8b:94:3b:f2:f8:3a:5e:c1:2c tanghly@gmail.com
